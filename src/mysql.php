@@ -3,7 +3,7 @@
  $database = "users";
  $user = "root";
  $password = "secret";
- $host = "mysql";
+ $host = "mysql41";
 
  $db = mysql_connect("$host","$user","$password");
 
